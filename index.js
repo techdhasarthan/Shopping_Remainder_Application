@@ -9,7 +9,7 @@ import {
 
 const appSettings = {
   databaseURL:
-    "https://remainder-application-d5d09-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "Your Firebase URL",
 };
 
 const app = initializeApp(appSettings);
